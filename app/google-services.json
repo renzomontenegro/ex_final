@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31956689821",
+    "project_id": "exfinal-2da1c",
+    "storage_bucket": "exfinal-2da1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31956689821:android:5c29a5e16f366a7c414574",
+        "android_client_info": {
+          "package_name": "dev.renzo.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAVDGrWAkAIyHWXqWir1j0Oc0pejxoGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31956689821:android:9584e5d5b34b4d9a414574",
+        "android_client_info": {
+          "package_name": "dev.renzo.pcfin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAVDGrWAkAIyHWXqWir1j0Oc0pejxoGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
